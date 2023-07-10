@@ -1,0 +1,27 @@
+{
+  "name": " ",
+  "children": [
+  {
+    "name": "技术",
+    "children": [
+    {"name": "设备性能", "value": 0.234},
+    {"name": "设备质量", "value": 0.047}
+    ]
+  },
+  {
+    "name": "服务",
+    "children": [
+      {"name": "通话质量", "value": 0.404},
+      {"name": "客服质量", "value": 0.033}
+    ]
+    },
+    {
+    "name": "用户",
+    "children": [
+      {"name": "消费信息", "value": 0.148},
+      {"name": "用户信息", "value": 0.096},
+      {"name": "终端", "value": 0.038}
+    ]
+    }
+  ]
+}
